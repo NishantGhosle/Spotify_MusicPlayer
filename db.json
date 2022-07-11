@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arijit Singh",
+      "songname": "Tum he ho",
+      "date": "23/03/2013"
+    },
+    {
+      "id": 2,
+      "name": "Shreya Ghoshal",
+      "songname": "Manwa laage",
+      "date": "11/09/2014"
+    },
+    {
+      "id": 3,
+      "name": "Neha kakkar",
+      "songname": "Dilbar",
+      "date": "27/08/2018"
+    },
+    {
+      "id": 4,
+      "name": "Honey Singh",
+      "songname": "Designer",
+      "date": "19/05/2022"
+    },
+    {
+      "id": 5,
+      "name": "Ankit Tiwari",
+      "songname": "Sun Raha Hai",
+      "date": "29/03/2013"
+    },
+    {
+      "id": 6,
+      "name": "Vishal Mishra",
+      "songname": "Kaise Hua",
+      "date": "13/06/2019"
+    },
+    {
+      "id": 7,
+      "name": "Guru Randhawa",
+      "songname": "Tere Te",
+      "date": "26/11/2018"
+    },
+    {
+      "id": 8,
+      "name": "Darshan Raval",
+      "songname": "Tere Naal",
+      "date": "18/05/2020"
+    },
+    {
+      "id": 9,
+      "name": "Asees Kaur",
+      "songname": "Raataan Lambiyan",
+      "date": "30/07/2021"
+    },
+    {
+      "id": 10,
+      "name": "Jubin Nautiyal",
+      "songname": "Lut gaye",
+      "date": "17/02/2021"
+    }
+  ]
+}
