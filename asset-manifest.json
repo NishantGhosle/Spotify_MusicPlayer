@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spotify_MusicPlayer/static/css/main.ea328644.css",
+    "main.js": "/Spotify_MusicPlayer/static/js/main.b79cd9a0.js",
+    "static/js/787.a19c38e9.chunk.js": "/Spotify_MusicPlayer/static/js/787.a19c38e9.chunk.js",
+    "index.html": "/Spotify_MusicPlayer/index.html",
+    "main.ea328644.css.map": "/Spotify_MusicPlayer/static/css/main.ea328644.css.map",
+    "main.b79cd9a0.js.map": "/Spotify_MusicPlayer/static/js/main.b79cd9a0.js.map",
+    "787.a19c38e9.chunk.js.map": "/Spotify_MusicPlayer/static/js/787.a19c38e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea328644.css",
+    "static/js/main.b79cd9a0.js"
+  ]
+}
